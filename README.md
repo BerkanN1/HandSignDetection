@@ -40,4 +40,11 @@ This project was developed using createml tabluar classification. If you want to
 - Choose tabluar classification 
 - Add your dataset and Train
 
+## Demo
+
+
+
+https://github.com/BerkanN1/HandSignDetection/assets/103366156/0d681fdf-0747-4951-9d23-f12b90e0dcf3
+
+
 
